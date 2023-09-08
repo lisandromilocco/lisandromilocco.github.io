@@ -27,7 +27,13 @@ Milocco, L. & Uller, T.
 Milocco, L. & Salazar-Ciudad, I.
 **<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[pdf]](https://lisandromilocco.github.io/papers/pnas_kalman_milocco.pdf)
 
+**Evolution of the G Matrix under Nonlinear Genotype-Phenotype Maps**  
+Milocco, L. & Salazar-Ciudad, I.
+**<span style="color:#C35817">The American Naturalist</span>**  [[pdf]](https://lisandromilocco.github.io/papers/amnat_milocco_2022.pdf)
 
+**Is evolution predictable? Quantitative genetics under complex genotype-phenotype maps**  
+Milocco, L. & Salazar-Ciudad, I.
+**<span style="color:#C35817">Evolution</span>**  [[pdf]](https://lisandromilocco.github.io/papers/evol_milocco_2020.pdf)
 
 [See all](./publications)
 
