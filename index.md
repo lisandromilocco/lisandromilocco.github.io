@@ -29,8 +29,6 @@ Milocco, L. & Uller, T.
 
 ## Awards
 
-2020 ISPASS Student Travel Award  
-[Research Distinction](https://cns.utexas.edu/undergraduate-education/events/cns-distinctions/2020-distinction-winners#bodun-hucomputer-science) by the College of Natural Sciences
 
 ---
 
