@@ -13,7 +13,7 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 25/08/2023: The [evo-devo summer school in Venice](https://meetings.embo.org/event/23-evolution-venice) was fantastic; I met great people and learned a lot.  
 
 
-[...see all news](./news)
+[See all](./news)
 
 ---
 
@@ -23,7 +23,7 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 Milocco, L. & Uller, T.
 **<span style="color:orangered">Evolution and Development</span>**  [[pdf]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
 
-[Complete Publications](./publications)
+[See all](./publications)
 
 ---
 
