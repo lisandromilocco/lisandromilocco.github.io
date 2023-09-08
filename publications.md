@@ -5,7 +5,7 @@ title: Publications
 
 [Home](./)
 
-## Publication
+## Publications
 
 **A data‐driven framework to model the organism–environment system**  
 Milocco, L. & Uller, T.
