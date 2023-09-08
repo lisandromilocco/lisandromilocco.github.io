@@ -25,7 +25,6 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 **Milocco, L.** & Uller, T.
 **<span style="color:#C35817">Evolution and Development</span>**  [[pdf]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
 
----
 2022
 
 **A method to predict the response to directional selection using a Kalman filter**  
@@ -36,7 +35,6 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 **Milocco, L.** & Salazar-Ciudad, I.
 **<span style="color:#C35817">The American Naturalist</span>**  [[pdf]](https://lisandromilocco.github.io/papers/amnat_milocco_2022.pdf)
 
----
 2020
 
 **Is evolution predictable? Quantitative genetics under complex genotype-phenotype maps**  
