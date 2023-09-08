@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bodunhu.com/sitemap.xml
+Sitemap: https://lisandromilocco.github.io/sitemap.xml
