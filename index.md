@@ -1,15 +1,9 @@
 ---
 layout: default
-title: "Bodun Hu"
+title: "Lisandro Milocco"
 ---
 
-My <img class="profile-picture" src="https://cdn.jsdelivr.net/gh/BDHU/bdhu.github.io/assets/img/logo.jpg"> name is Bodun (though I usually go by Edward). I'm a CS PhD student in the [UTNS](https://utns.cs.utexas.edu/) lab at [UT Austin](https://www.utexas.edu/) 🤘.  I am co-advised by [Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). Before I started my PhD, I was fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing systems at [SCEA group](https://github.com/utcs-scea). I also worked with professor [Simon Peter](https://homes.cs.washington.edu/~simpeter/) on programmable switches.
-
-My research focuses on the intersection of operating systems, network, and machine learning. I am particularly interested in developing systems for ML, and applying ML techniques to systems.
-
-I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPU benchmarking and accelerating OS kernel access to accelerators.
-
-Visit my [blog](https://www.bodunhu.com/blog/) ✏️ to find out what I've been working on recently as well as other updates.
+My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund University](https://www.lunduniversity.lu.se/).
 
 ---
 
@@ -53,23 +47,5 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ---
 
-## Software
-
-**[Altis](https://utcs-scea.github.io/altis/)**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated.
-
-**[gpuinfo](https://github.com/BDHU/gpuinfo)**: a minimal command-line utility written in Rust for querying GPU status.
-
----
-
-## Useful Links
-
-[Machine Learning System Resources](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)  
-[UTNS Lab](https://utns.cs.utexas.edu/)  
-[SCEA Lab](https://github.com/utcs-scea)  
-[Laboratory for Advanced Systems Research](https://www.cs.utexas.edu/lasr/)  
-[Misc.](/misc)  
-[Notes](https://pages.github.austin.utexas.edu/bh28324/notes/)
-
----
 
 <img style="width:350px;" src="/assets/img/wordcloud.svg"/>
