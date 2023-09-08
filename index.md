@@ -33,4 +33,4 @@ Milocco, L. & Uller, T.
 ---
 
 
-<img style="width:350px;" src="assets/img/cranes.png>
+<img style="width:350px;" src="/assets/img/cranes.png>
