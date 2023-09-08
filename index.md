@@ -9,10 +9,8 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 
 ## News
 
-09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
-05/23/2022: I will be joining Intel XFG this summer!  
-09/01/2021: Officially started my PhD.  
-05/22/2021: **I officially graduated from UT Austin!**  
+02/09/2023: Great discussions at the cluster meeting on [Agential Behavior and Plasticity in Evolution](https://www.biologicalpurpose.org/cluster/agential-behavior-and-plasticity-evolution) in Smygehuk, the southermost point of Sweden.   
+25/08/2023: The [evo-devo summer school in Venice](https://meetings.embo.org/event/23-evolution-venice) was excellent! Learned a lot and had lots of fun.
 
 [...see all news](./news)
 
