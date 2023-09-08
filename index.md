@@ -35,4 +35,4 @@ Milocco, L. & Uller, T.
 ---
 
 
-<img style="width:350px;" src="/assets/img/wordcloud.svg"/>
+<img style="width:350px;" src="/assets/img/logo.jpg"/>
