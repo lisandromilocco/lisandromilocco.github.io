@@ -21,7 +21,13 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 
 **A data‐driven framework to model the organism–environment system**  
 Milocco, L. & Uller, T.
-**<span style="color:orangered">Evolution and Development</span>**  [[pdf]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
+**<span style="color:copper">Evolution and Development</span>**  [[pdf]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
+
+**A method to predict the response to directional selection using a Kalman filter**  
+Milocco, L. & Salazar-Ciudad, I.
+**<span style="color:copper">Proceedings of the National Academy of Sciences</span>**  [[pdf]](https://lisandromilocco.github.io/papers/pnas_kalman_milocco.pdf)
+
+
 
 [See all](./publications)
 
