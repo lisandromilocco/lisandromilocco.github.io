@@ -31,15 +31,9 @@
     <div class="wrapper">
       <div class="sidebar">
         <header>
-          {% if site.logo %}
-            {% if site.cdn.jsdelivr.enabled %}
-              <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
-            {% else %}
-              <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
-            {% endif %}
-          {% endif %}
-
+          <!-- This part I modified. From here... -->
           <img class="img-circle" src="https://lisandromilocco.github.io/logo.jpg" alt="Logo">
+          <!-- ...to here 8.9.2023 -->
 
           {% if site.blank_title %}
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
