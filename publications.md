@@ -21,7 +21,7 @@ title: Publications
 
 **Evolution of the G Matrix under Nonlinear Genotype-Phenotype Maps**  
 **Milocco, L.** & Salazar-Ciudad, I.
-**<span style="color:#C35817">The American Naturalist</span>**  [[DOI]](https://doi.org/10.1086/717814)[[PDF]](https://lisandromilocco.github.io/papers/amnat_milocco_2022.pdf)
+**<span style="color:#C35817">The American Naturalist</span>**  [[DOI]](https://doi.org/10.1086/717814))[[PDF]](https://lisandromilocco.github.io/papers/amnat_milocco_2022.pdf)
 
 2020
 
@@ -29,6 +29,3 @@ title: Publications
 **Milocco, L.** & Salazar-Ciudad, I.
 **<span style="color:#C35817">Evolution</span>**  [[DOI]](https://doi.org/10.1111/evo.13907)[[PDF]](https://lisandromilocco.github.io/papers/evol_milocco_2020.pdf)
 
-[See all](./publications)
-
-[See all](./publications)
