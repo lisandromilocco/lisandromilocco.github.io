@@ -9,8 +9,8 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 
 ## News
 
-02/09/2023: Great discussions at the cluster meeting on [Agential Behavior and Plasticity in Evolution](https://www.biologicalpurpose.org/cluster/agential-behavior-and-plasticity-evolution) in Smygehuk, the southermost point of Sweden.   
-25/08/2023: The [evo-devo summer school in Venice](https://meetings.embo.org/event/23-evolution-venice) was fantastic; I met great people and learned a lot.  
+**02/09/2023**: Great discussions at the cluster meeting on [Agential Behavior and Plasticity in Evolution](https://www.biologicalpurpose.org/cluster/agential-behavior-and-plasticity-evolution) in Smygehuk, the southermost point of Sweden.\
+**25/08/2023**: The [evo-devo summer school in Venice](https://meetings.embo.org/event/23-evolution-venice) was fantastic; I met great people and learned a lot.\
 
 
 [See all](./news)
