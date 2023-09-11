@@ -3,7 +3,7 @@ layout: default
 title: "Lisandro Milocco"
 ---
 
-My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund University](https://www.lunduniversity.lu.se/).
+I am Lisandro Milocco, an eclectic, queer researcher from Argentina, now based in Sweden working at [Feiner-Uller]() lab in [Lund University](https://www.lunduniversity.lu.se/).
 
 ---
 
