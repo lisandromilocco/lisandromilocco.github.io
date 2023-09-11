@@ -11,7 +11,7 @@ title: Publications
 
 **A data‐driven framework to model the organism–environment system**  
 **Milocco, L.** & Uller, T.
-**<span style="color:#C35817">Evolution and Development</span>**  [[DOI]](10.1111/ede.12449)[[PDF]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
+**<span style="color:#C35817">Evolution and Development</span>**  [[DOI]](https://doi.org/10.1111/ede.12449)[[PDF]](https://lisandromilocco.github.io/papers/EvolutionandDevelopment-2023-Milocco.pdf)
 
 2022
 
