@@ -3,7 +3,9 @@ layout: default
 title: "Lisandro Milocco"
 ---
 
-I am Lisandro Milocco, an eclectic, queer researcher from Argentina, now based in Sweden working at [Feiner-Uller]() lab in [Lund University](https://www.lunduniversity.lu.se/).
+I am Lisandro Milocco a researcher from Argentina, now based in Sweden working at [Feiner-Uller](https://feiner-uller-group.se/) lab in [Lund University](https://www.lunduniversity.lu.se/).
+
+I am interested in evolution and why organisms look the way they do. In particular I am interested in how the *process* that generates phenotypic variation in each generation (i.e., development) determines the ability of organisms to evolve. 
 
 ---
 
