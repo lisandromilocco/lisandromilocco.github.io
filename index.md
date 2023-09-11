@@ -51,4 +51,6 @@ My name is Lisandro Milocco and I am a postdoc at [Feiner-Uller]() lab at [Lund 
 
 ---
 
-<img style="width:350px;" src="/assets/img/cranes.png"/>
+<div style="text-align: center;">
+  <img style="width: 350px; margin: 0 auto;" src="/assets/img/cranes.png" alt="Cranes">
+</div>
