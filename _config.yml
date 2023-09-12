@@ -1,8 +1,6 @@
 title: Lisandro Milocco
 logo: /assets/img/logo.jpg
-email: X@Y.com | replace: '@', ' at ' | replace: '.', ' dot '
-#milocco.lisandro [at] gmail [dot] com
-#email: lisandro.milocco <span style="font-style: italic; color: gray;">-at-</span> biol <span style="font-style: italic; color: gray;">-dot-</span> lu <span style="font-style: italic; color: gray;">-dot-</span> se
+email: milocco.lisandro ~at~ gmail ~dot~ com
 blank_title: true
 favicon: true
 description: evo-devo; dynamical systems; quantitative genetics
