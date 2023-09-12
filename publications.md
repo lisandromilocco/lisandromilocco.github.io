@@ -15,6 +15,10 @@ title: Publications
 
 2022
 
+**Quantitative genetics in nonlinear genotype-phenotype maps**  
+**Milocco, L.** 
+**<span style="color:#C35817">University of Helsinki</span>**  [[URN]](http://urn.fi/URN:ISBN:978-951-51-8488-7)[[PDF]](milocco_lisandro_dissertation_2022.pdf)
+
 **A method to predict the response to directional selection using a Kalman filter**  
 **Milocco, L.** & Salazar-Ciudad, I.
 **<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[DOI]](https://doi.org/10.1073/pnas.2117916119)[[PDF]](https://lisandromilocco.github.io/papers/pnas_kalman_milocco.pdf)
