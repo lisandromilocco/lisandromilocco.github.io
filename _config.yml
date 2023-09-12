@@ -1,6 +1,7 @@
 title: Lisandro Milocco
 logo: /assets/img/logo.jpg
-email: milocco.lisandro [at] gmail [dot] com
+email: X@Y.com | replace: '@', ' at ' | replace: '.', ' dot '
+#milocco.lisandro [at] gmail [dot] com
 #email: lisandro.milocco <span style="font-style: italic; color: gray;">-at-</span> biol <span style="font-style: italic; color: gray;">-dot-</span> lu <span style="font-style: italic; color: gray;">-dot-</span> se
 blank_title: true
 favicon: true
