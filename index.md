@@ -4,9 +4,9 @@ title: "Lisandro Milocco"
 ---
 ## Hi!
 
-I am Lisandro Milocco, an Argentinean evolutionary biologist based in Sweden. I am currently a Postodoctoral Reseacher in the [Feiner-Uller](https://feiner-uller-group.se/) lab in [Lund University](https://www.lunduniversity.lu.se/).
+I am Lisandro Milocco, an Argentinean-Finnish evolutionary biologist based in Sweden. I am currently a Postodoctoral Reseacher in the [Feiner-Uller](https://feiner-uller-group.se/) lab in [Lund University](https://www.lunduniversity.lu.se/).
 
-I am fascinated by the shapes and patterns of living organisms, and want to understand how the dynamical process of development, that generates this phenotypic variation, determines the ability of organisms to evolve.
+I am fascinated by the shapes and patterns of living organisms, and want to understand how the dynamical process of development determines the ability of organisms to evolve.
 
 ---
 
