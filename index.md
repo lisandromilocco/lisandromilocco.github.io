@@ -12,6 +12,7 @@ I am fascinated by the shapes and patterns of living organisms, and want to unde
 
 ## News
 
+**22/09/2023**: Learned a lot in an activity-full week during the [International Forum for Computer Vision in Ecology and Evolutionary Biology](https://cv-eeb.netlify.app/) in Lund.\
 **02/09/2023**: Great discussions at the cluster meeting on [Agential Behavior and Plasticity in Evolution](https://www.biologicalpurpose.org/cluster/agential-behavior-and-plasticity-evolution) in Smygehuk, the southermost point of Sweden.\
 **25/08/2023**: The [evo-devo summer school in Venice](https://meetings.embo.org/event/23-evolution-venice) was fantastic; I met great people and learned a lot.
 
