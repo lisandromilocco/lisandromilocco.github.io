@@ -9,7 +9,7 @@ title: Publications
 
 2023
 
-**A data‐driven framework to model the organism–environment system**  
+**Using developmental dynamics for evolutionary prediction and control**  
 **Milocco, L.** & Uller, T.
 **<span style="color:#C35817">Preprint in Biorxiv</span>**  [[DOI]](https://doi.org/10.1101/2023.11.03.565446)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller2023_preprint.pdf)
 
