@@ -7,6 +7,8 @@ title: News
 
 ## News
 
+**11/1/2024**: We discussed interesting ideas for future science at the Horizons for Scientific Progress Workshop in Atlanta, as part of the [Agency, Directionality, and Function](https://www.biologicalpurpose.org/) project.\
+**9/11/2023**: Great meeting celebrating [Pere Alberch's legacy in Barcelona](https://eventum.upf.edu/94510/detail/genes-cells-and-embryos-in-development-and-evolution-pere-alberch-25-years-on.html).\
 **05/11/2023**: [New preprint out!](https://www.biorxiv.org/content/10.1101/2023.11.03.565446v1)\
 **22/09/2023**: Learned a lot in an activity-full week during the [International Forum for Computer Vision in Ecology and Evolutionary Biology](https://cv-eeb.netlify.app/) in Lund.\
 **02/09/2023**: Great discussions at the cluster meeting on [Agential Behavior and Plasticity in Evolution](https://www.biologicalpurpose.org/cluster/agential-behavior-and-plasticity-evolution) in Smygehuk, the southermost point of Sweden.\
