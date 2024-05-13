@@ -29,6 +29,10 @@ I am fascinated by the shapes and patterns of living organisms, and want to unde
 **Milocco, L.** & Uller, T.
 **<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller_2024_PNAS.pdf)
 
+**Twenty years on from Developmental Plasticity and Evolution: middle-range theories and how to test them**  
+Uller, T., **Milocco, L.** Jana Isanta-Navarro, Charlie K Cornwallis & Nathalie Feiner 
+**<span style="color:#C35817">Journal of Experimental Biology</span>**  [[DOI]](https://doi.org/10.1242/jeb.246375)
+
 2023
 
 **A data‐driven framework to model the organism–environment system**  
