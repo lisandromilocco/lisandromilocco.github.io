@@ -23,11 +23,13 @@ I am fascinated by the shapes and patterns of living organisms, and want to unde
 
 ## Publications
 
-2023
+2024
 
-**Using developmental dynamics for evolutionary prediction and control**  
+**Utilizing developmental dynamics for evolutionary prediction and control**  
 **Milocco, L.** & Uller, T.
-**<span style="color:#C35817">Preprint in Biorxiv</span>**  [[DOI]](https://doi.org/10.1101/2023.11.03.565446)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller2023_preprint.pdf)
+**<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller_2024_PNAS.pdf)
+
+2023
 
 **A data‐driven framework to model the organism–environment system**  
 **Milocco, L.** & Uller, T.
