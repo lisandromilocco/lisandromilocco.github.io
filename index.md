@@ -2,11 +2,10 @@
 layout: default
 title: "Lisandro Milocco"
 ---
-## Hi!
+## Evolutionary-developmental dynamics
 
-I am Lisandro Milocco, an Argentinean-Finnish evolutionary biologist based in Sweden. I am currently a Post-doctoral Reseacher in the [Feiner-Uller](https://feiner-uller-group.se/) lab in [Lund University](https://www.lunduniversity.lu.se/).
-
-I am fascinated by the shapes and patterns of living organisms, and want to understand how the dynamical process of development determines the ability of organisms to evolve.
+How has evolution generated the extraordinary diversity of life on Earth? At the heart of this question lies evolvability—the ability of organisms to generate variation. I am interested in understanding what determines evolvability and how we can use this understanding to predict evolution.
+To understand evolvability, I focus on development—the dynamic process by which variation in genetic and environmental factors gives rise to differences in morphology, physiology, and behavior. By applying computational and mathematical tools of dynamical systems theory to development, I aim to uncover the principles that govern evolvability and shape the evolutionary potential of organisms.
 
 ---
 
