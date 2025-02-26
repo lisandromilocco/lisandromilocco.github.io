@@ -18,7 +18,7 @@ I am an Assistant Professor at the [Department of Zoology, Stockholm University]
 **12/12/2024**: [New paper out!](https://doi.org/10.1093/jeb/voae103)\
 **18/10/2024**: Great experience presenting and discussing in Lisbon at the [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
 **28/06/2024**: We had a great time hosting our symposium on predicting evolution at [EuroEvoDevo 2024 in Helsinki](https://www.helsinki.fi/en/conferences/euroevodevo-2024).\
-**26/03/2024**: [New paper out!](https://doi.org/10.1073/pnas.2320413121)\
+**26/03/2024**: [New paper out!](https://doi.org/10.1073/pnas.2320413121)
 
 [See all](./news)
 
