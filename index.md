@@ -28,13 +28,13 @@ I am an Assistant Professor at the [Department of Zoology, Stockholm University]
 
 2024
 
-**The paradox of predictability provides a bridge between micro- and macroevolution**  
-Tsuboi, M., Sztepanacz, J., De Lisle, S., Voje, K. L., Grabowski, M., Hopkins, M. J., Porto, A., Balk, M., Pontarp, M., Rossoni, D., Hildesheim, L. S., Horta-Lacueva, Q. J. B., Hohmann, N., Holstad, A., Lürig, M., **Milocco, L.** , Nilén, S., Passarotto, A., Svensson, E. I., Villegas, C., Winslott, C., Liow, L. H., Hunt, G., Love, A. C. and Houle, D. 
-**<span style="color:#C35817">Journal of evolutionary biology</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)
-
 **Utilizing developmental dynamics for evolutionary prediction and control**  
 **Milocco, L.** & Uller, T.
 **<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller_2024_PNAS.pdf)
+
+**The paradox of predictability provides a bridge between micro- and macroevolution**  
+Tsuboi, M., Sztepanacz, J., De Lisle, S., Voje, K. L., Grabowski, M., Hopkins, M. J., Porto, A., Balk, M., Pontarp, M., Rossoni, D., Hildesheim, L. S., Horta-Lacueva, Q. J. B., Hohmann, N., Holstad, A., Lürig, M., **Milocco, L.** , Nilén, S., Passarotto, A., Svensson, E. I., Villegas, C., Winslott, C., Liow, L. H., Hunt, G., Love, A. C. and Houle, D. 
+**<span style="color:#C35817">Journal of evolutionary biology</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)
 
 **Twenty years on from Developmental Plasticity and Evolution: middle-range theories and how to test them**  
 Uller, T., **Milocco, L.** Jana Isanta-Navarro, Charlie K Cornwallis & Nathalie Feiner 
