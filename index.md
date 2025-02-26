@@ -14,10 +14,11 @@ I am an Assistant Professor at the [Department of Zoology, Stockholm University]
 
 ## News
 
-**11/01/2024**: We discussed interesting ideas for future science at the Horizons for Scientific Progress Workshop in Atlanta, as part of the [Agency, Directionality, and Function](https://www.biologicalpurpose.org/) project.\
-**09/11/2023**: Great meeting celebrating [Pere Alberch's legacy in Barcelona](https://eventum.upf.edu/94510/detail/genes-cells-and-embryos-in-development-and-evolution-pere-alberch-25-years-on.html).\
-**05/11/2023**: [New preprint out!](https://www.biorxiv.org/content/10.1101/2023.11.03.565446v1)\
-**22/09/2023**: Learned a lot in an activity-full week during the [International Forum for Computer Vision in Ecology and Evolutionary Biology](https://cv-eeb.netlify.app/) in Lund.
+**01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.\
+**12/12/2024**: [New paper out!](https://doi.org/10.1093/jeb/voae103)\
+**18/10/2024**: Great experience presenting and discussing in Lisbon at the [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
+**28/06/2024**: We had a great time hosting our symposium on predicting evolution at [EuroEvoDevo 2024 in Helsinki](https://www.helsinki.fi/en/conferences/euroevodevo-2024).\
+**26/03/2024**: [New paper out!](https://doi.org/10.1073/pnas.2320413121)\
 
 [See all](./news)
 
