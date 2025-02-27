@@ -21,7 +21,7 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 **01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.\
 **12/12/2024**: [New paper out!](https://doi.org/10.1093/jeb/voae103)\
-**18/10/2024**: Great experience presenting and discussing in Lisbon at the [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
+**18/10/2024**: Great experience presenting and discussing in Lisbon at [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
 **28/06/2024**: We had a great time hosting our symposium on predicting evolution at [EuroEvoDevo 2024 in Helsinki](https://www.helsinki.fi/en/conferences/euroevodevo-2024).\
 **26/03/2024**: [New paper out!](https://doi.org/10.1073/pnas.2320413121)
 
