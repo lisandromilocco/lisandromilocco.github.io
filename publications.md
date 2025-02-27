@@ -15,7 +15,7 @@ title: Publications
 
 **The paradox of predictability provides a bridge between micro- and macroevolution**  
 Tsuboi, M., Sztepanacz, J., De Lisle, S., Voje, K. L., Grabowski, M., Hopkins, M. J., Porto, A., Balk, M., Pontarp, M., Rossoni, D., Hildesheim, L. S., Horta-Lacueva, Q. J. B., Hohmann, N., Holstad, A., Lürig, M., **Milocco, L.** , Nilén, S., Passarotto, A., Svensson, E. I., Villegas, C., Winslott, C., Liow, L. H., Hunt, G., Love, A. C. and Houle, D. 
-**<span style="color:#C35817">Journal of evolutionary biology</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)
+**<span style="color:#C35817">Journal of Evolutionary Biology</span>**  [[DOI]](https://doi.org/10.1073/pnas.2320413121)
 
 **Twenty years on from Developmental Plasticity and Evolution: middle-range theories and how to test them**  
 Uller, T., **Milocco, L.** Jana Isanta-Navarro, Charlie K Cornwallis & Nathalie Feiner 
