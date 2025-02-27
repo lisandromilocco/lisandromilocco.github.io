@@ -8,7 +8,7 @@ title: "Lisandro Milocco"
 
 To understand evolvability, I focus on *development*—the dynamic process by which variation in genetic and environmental factors gives rise to differences in morphology, physiology, and behavior. By applying computational and mathematical tools of dynamical systems theory to development, I aim to uncover the principles that govern evolvability and shape the evolutionary potential of organisms.
 
-I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/).
+I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
 
 ---
 
