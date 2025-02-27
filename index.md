@@ -5,7 +5,7 @@ title: "Lisandro Milocco"
 
 ## Welcome to my personal page!
 
-I am Lisandro Milocco, an evolutionary biologist from Argentina based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
 
 ---
 
