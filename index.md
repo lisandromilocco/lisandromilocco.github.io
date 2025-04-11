@@ -19,6 +19,7 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 ## News
 
+**26/03/2025**: Had a great time discussing the (un)predictability of evolution in Zurich at the [Uncertainty Seminar Series](https://www.uzh.ch/en/events/events/rv/uncertainty.html).\
 **01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.\
 **12/12/2024**: [New paper out!](https://doi.org/10.1093/jeb/voae103)\
 **18/10/2024**: Great experience presenting and discussing in Lisbon at [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
