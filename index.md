@@ -19,6 +19,7 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 ## News
 
+**01/09/2025**: Welcome Christoph Netz as a postdoc to the lab!\
 **25/08/2025**: Excited to announce an [open PhD position in the lab!](https://su.varbi.com/en/what:job/jobID:850027/)\
 **24/07/2025**: Thrilled to present at the Latin American Conference for Evolutionary Biology in Tucumán, Argentina.\
 **01/05/2025**: We welcome Pascal Hagolani as a postdoc to the lab!\
