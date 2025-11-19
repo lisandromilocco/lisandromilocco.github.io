@@ -35,6 +35,13 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 ## Publications
 
+
+2025
+
+**Evolvability: progress and key questions**  
+Guillaume, F., Haaland, T., Hallgrímsson, B., Hansen, T.F., Holstad, A., Houle, D., Hunt, G., Isaksen, A., **Milocco, L.**, Mubalegh, N., Nuño de la Rosa, L., Orzack, S.H, Porto, A., Reid, J.M., Sztepanacz, J.L, Undheim, E., Villegas, C., Voje, K.L., Walling, C. & Wright, J. 
+**<span style="color:#C35817">BioScience</span>**  [[DOI]](https://doi.org/10.1093/biosci/biaf111)[[PDF]]
+
 2024
 
 **Utilizing developmental dynamics for evolutionary prediction and control**  
