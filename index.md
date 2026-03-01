@@ -98,6 +98,10 @@ Uller, T., **Milocco, L.** Isanta-Navarro, J., Cornwallis, C.K. & Feiner, N.
 
 ## Popular Media
 
+[Prediction and Control in Evolution: From “Survival” to “Arrival”of the Fittest](https://www.youtube.com/watch?v=Pov9eI0irc4) - Biocontrol Seminars 2025
+
+[Evolution, Health & Technology: Understanding Change and Risk](https://uzh.mediaspace.cast.switch.ch/media/Session+4+%28Part+1%3A+Evolution%2C+Health++Technology%3A+Understanding+Change+and+Risk%29/0_1xhmnr4a/108894) - Uncertainty Seminar Series
+
 [Evolutionary development warps our expectations for the evolution of G matrices and the phenotypes they produce](https://asngrads.com/2022/05/16/ns-lisandro-milocco/) - Naturalist Selections podcast
 
 ---
