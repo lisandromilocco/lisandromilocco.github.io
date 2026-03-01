@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "Lisandro Milocco"
+title: "Milocco lab"
 ---
 
-## Welcome to my personal page!
+## Welcome!
 
-I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+The Milocco Lab is based at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+ 
+We study how development shapes evolution using mathematical, computational, and data-driven approaches. Our goal is to understand and predict how biological systems generate variation and evolve over time.
 
 ---
 
@@ -14,6 +16,18 @@ I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assi
 **How has evolution generated the extraordinary diversity of life on Earth?** At the heart of this question lies *evolvability*—the ability of organisms to generate variation. I am interested in understanding what determines evolvability and how we can use this understanding to predict evolution.
 
 To understand evolvability, I focus on *development*—the dynamic process by which variation in genetic and environmental factors gives rise to differences in morphology, physiology, and behavior. By applying computational and mathematical tools of dynamical systems theory to development, I aim to uncover the principles that govern evolvability and shape the evolutionary potential of organisms.
+
+---
+
+## About the PI
+
+I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+
+---
+
+## Join Us
+
+We welcome motivated students and postdocs interested in evolutionary-developmental biology, mathematical and computational modeling, and dynamical systems. Informal inquiries are always encouraged!
 
 ---
 
