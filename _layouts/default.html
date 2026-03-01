@@ -30,24 +30,24 @@
     <!-- Background image: fixed on desktop, scroll on mobile -->
     <style>
       /* Background container */
-      #background-container {
-        position: fixed;
+      #site-background {
+        position: fixed;         /* stay behind content */
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        z-index: -1; /* behind all content */
+        z-index: -1;             /* behind all content */
         background-image: url('{{ "/assets/img/background.png" | relative_url }}');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: fixed; /* fixed on desktop */
+        background-attachment: fixed;  /* fixed on desktop */
       }
 
       /* Mobile fallback */
       @media only screen and (max-width: 768px) {
-        #background-container {
-          background-attachment: scroll; /* scrolls on mobile */
+        #site-background {
+          background-attachment: scroll;  /* scroll on mobile */
         }
       }
     </style>
