@@ -27,25 +27,32 @@
 
     {% include head-custom.html %}
 
-    <!-- Background image: fixed on desktop, scroll on mobile -->
+
+    <!-- Background image styles -->
     <style>
-      /* Apply background to wrapper only */
-      .wrapper {
-        background-image: url('{{ "/assets/img/background.png" | relative_url }}');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-attachment: fixed; /* fixed on desktop */
-        min-height: 100vh; /* ensure it fills viewport */
+      body {
+        position: relative;
       }
-      
-      /* Mobile fallback: scrolling background */
-      @media only screen and (max-width: 768px) {
-        .wrapper {
-          background-attachment: scroll;
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        background-image: url("https://lisandromilocco.github.io/assets/img/background.png");
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+      }
+
+      @media (max-width: 768px) {
+        body::before {
+          position: absolute;
+          min-height: 100%;
         }
       }
-      </style>
+    </style>
+    
 
   </head>
   <body>
