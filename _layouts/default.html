@@ -26,21 +26,27 @@
     {% endif %}
 
     {% include head-custom.html %}
-  </head>
-body {
-  background-image: url('/assets/img/background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
 
-/* Mobile fallback */
-@media only screen and (max-width: 768px) {
-  body {
-    background-attachment: scroll;
-  }
-}
+    <!-- Background image: fixed on desktop, scroll on mobile -->
+    <style>
+      body {
+        background-image: url('{{ "/assets/img/background.png" | relative_url }}');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+      }
+
+      @media only screen and (max-width: 768px) {
+        body {
+          background-attachment: scroll;
+        }
+      }
+    </style>
+
+  </head>
+  <body>
+    
   <div class="sidebar">
         <header>
           <!-- This part I modified. From here... -->
