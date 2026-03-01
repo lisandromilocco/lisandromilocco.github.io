@@ -111,6 +111,6 @@ Uller, T., **Milocco, L.** Isanta-Navarro, J., Cornwallis, C.K. & Feiner, N.
 
 ---
 
-<div style="text-align: center;">
-  <img style="width: 350px; margin: 0 auto;" src="/assets/img/cranes.png" alt="Cranes">
-</div>
+<!-- <div style="text-align: center;"> -->
+<!--  <img style="width: 350px; margin: 0 auto;" src="/assets/img/cranes.png" alt="Cranes"> -->
+<!-- </div> -->
