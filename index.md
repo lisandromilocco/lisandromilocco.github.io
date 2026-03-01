@@ -27,7 +27,7 @@ I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assi
 
 ## Join Us
 
-We welcome motivated students and postdocs interested in evolutionary-developmental biology, mathematical and computational modeling, and dynamical systems. Informal inquiries are always encouraged!
+We welcome motivated students and postdocs interested in evolutionary-developmental biology, mathematical and computational modeling, quantitative genetics and dynamical systems. Informal inquiries are always encouraged!
 
 ---
 
