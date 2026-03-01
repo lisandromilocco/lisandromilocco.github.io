@@ -21,14 +21,10 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 ## About the PI
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<img src="/assets/img/circular_profile.png" alt="Lisandro Milocco" style="float: right; width: 150px; margin-left: 20px; border-radius: 50%;">
 
-<div>
-I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
-</div>
+I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifel
 
-<img src="/assets/img/circular_profile.png" alt="Lisandro Milocco" style="width: 150px; border-radius: 50%;">
-</div>
 
 ---
 
