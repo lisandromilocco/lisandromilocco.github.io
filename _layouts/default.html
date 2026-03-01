@@ -28,21 +28,25 @@
     {% include head-custom.html %}
 
     <!-- Background image: fixed on desktop, scroll on mobile -->
+
     <style>
-      body {
+      /* Apply background to the wrapper instead of body */
+      .wrapper {
         background-image: url('{{ "/assets/img/background.png" | relative_url }}');
         background-size: cover;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment: fixed;  /* fixed on desktop */
         background-position: center;
+        min-height: 100vh; /* ensure full page height */
       }
-
+      
+      /* Mobile: scroll background */
       @media only screen and (max-width: 768px) {
-        body {
+        .wrapper {
           background-attachment: scroll;
         }
       }
-    </style>
+      </style>
 
   </head>
   <body>
