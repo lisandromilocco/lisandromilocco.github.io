@@ -21,7 +21,7 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 ## About the PI
 
-<img src="/assets/img/circular_profile.png" alt="Lisandro Milocco" style="float: right; width: 150px; margin-left: 20px; margin-top: -40px; border-radius: 50%;">
+<img src="/assets/img/circular_profile.png" alt="Lisandro Milocco" style="float: right; width: 150px; margin-left: 20px; margin-top: -30px; border-radius: 50%;">
 
 I am an evolutionary biologist from Neuquén, Argentina, now based in Stockholm, Sweden. 
 
