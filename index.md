@@ -41,7 +41,7 @@ We welcome motivated students and postdocs interested in evolutionary-developmen
 **24/07/2025**: Thrilled to present at the Latin American Conference for Evolutionary Biology in Tucumán, Argentina.\
 **01/05/2025**: We welcome Pascal Hagolani as a postdoc to the lab!\
 **26/03/2025**: Had a great time discussing the (un)predictability of evolution in Zurich at the [Uncertainty Seminar Series](https://uzh.mediaspace.cast.switch.ch/channel/25FS+UN+Uncertainty/108894).\
-**01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.\
+**01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.
 
 [See all](./news)
 
