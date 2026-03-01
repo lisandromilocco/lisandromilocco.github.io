@@ -18,17 +18,16 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 ---
 
 ## News
-
+**01/03/2026**: Excited to announce [open postdoc positions in the lab!](https://su.varbi.com/en/what:job/jobID:906238/)\
+**18/02/2026**: Grateful to have shared our work at the Career & Science Seminar Series at the Max Planck Institute for Evolutionary Biology in Plön, Germany.\
+**19/11/2025**: Enjoyed connecting with colleagues and presenting at the [Biocontrol Workshop 2025](https://www.biocontrolseminars.org/workshop-2025).\
+**09/09/2025**: [New paper out!](https://academic.oup.com/bioscience/article/75/12/1042/8249477?login=false)\
 **01/09/2025**: Welcome Christoph Netz as a postdoc to the lab!\
 **25/08/2025**: Excited to announce an [open PhD position in the lab!](https://su.varbi.com/en/what:job/jobID:850027/)\
 **24/07/2025**: Thrilled to present at the Latin American Conference for Evolutionary Biology in Tucumán, Argentina.\
 **01/05/2025**: We welcome Pascal Hagolani as a postdoc to the lab!\
 **26/03/2025**: Had a great time discussing the (un)predictability of evolution in Zurich at the [Uncertainty Seminar Series](https://uzh.mediaspace.cast.switch.ch/channel/25FS+UN+Uncertainty/108894).\
 **01/01/2025**: Our lab at [Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/) has officially started! Stay tuned for open positions very soon.\
-**12/12/2024**: [New paper out!](https://doi.org/10.1093/jeb/voae103)\
-**18/10/2024**: Great experience presenting and discussing in Lisbon at [The Genotype-Phenotype map: experimental and theoretical approaches](https://cfcul.ciencias.ulisboa.pt/reunioes/the-genotype-phenotype-map-experimental-and-theoretical-approaches/) workshop.\
-**28/06/2024**: We had a great time hosting our symposium on predicting evolution at [EuroEvoDevo 2024 in Helsinki](https://www.helsinki.fi/en/conferences/euroevodevo-2024).\
-**26/03/2024**: [New paper out!](https://doi.org/10.1073/pnas.2320413121)
 
 [See all](./news)
 
