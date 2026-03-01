@@ -27,8 +27,21 @@
 
     {% include head-custom.html %}
   </head>
-<body style="background-image: url('{{ '/assets/img/background.png' | relative_url }}'); background-size: cover; background-repeat: no-repeat; background-position: center;">    <div class="wrapper">
-      <div class="sidebar">
+body {
+  background-image: url('/assets/img/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Mobile fallback */
+@media only screen and (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+}
+  <div class="sidebar">
         <header>
           <!-- This part I modified. From here... -->
           <img src="https://lisandromilocco.github.io/assets/img/circular_profile.png" alt="Logo" />
