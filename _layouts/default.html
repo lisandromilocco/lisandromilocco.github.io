@@ -29,24 +29,24 @@
 
     <!-- Background image: fixed on desktop, scroll on mobile -->
 
+
+    <!-- Background: fixed on desktop, scroll on mobile -->
     <style>
-      /* Apply background to the wrapper instead of body */
       .wrapper {
         background-image: url('{{ "/assets/img/background.png" | relative_url }}');
         background-size: cover;
         background-repeat: no-repeat;
-        background-attachment: fixed;  /* fixed on desktop */
         background-position: center;
-        min-height: 100vh; /* ensure full page height */
+        background-attachment: fixed; /* desktop fixed */
+        min-height: 100vh;
       }
-      
-      /* Mobile: scroll background */
+
       @media only screen and (max-width: 768px) {
         .wrapper {
-          background-attachment: scroll;
+          background-attachment: scroll; /* mobile scroll */
         }
       }
-      </style>
+    </style>
 
   </head>
   <body>
