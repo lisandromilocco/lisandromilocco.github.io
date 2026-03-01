@@ -23,7 +23,9 @@ To understand evolvability, I focus on *development*—the dynamic process by wh
 
 <img src="/assets/img/circular_profile.png" alt="Lisandro Milocco" style="float: right; width: 150px; margin-left: 20px; border-radius: 50%;">
 
-I am an evolutionary biologist from Argentina, now based in Sweden. I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifel
+I am an evolutionary biologist from Neuquén, Argentina, now based in Stockholm, Sweden. 
+
+I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
 
 
 ---
