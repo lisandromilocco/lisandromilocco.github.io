@@ -7,7 +7,7 @@ title: "Milocco lab"
 
 The Milocco Lab is based at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
  
-We study how development shapes evolution using mathematical, computational, and data-driven approaches. Our goal is to understand and predict how biological systems generate variation and evolve over time.
+We study how development shapes evolution using mathematical and computational approaches. Our goal is to understand and predict how biological systems generate variation and evolve over time.
 
 ---
 
