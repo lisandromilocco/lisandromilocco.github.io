@@ -5,7 +5,7 @@ title: "Milocco lab"
 
 ## Welcome!
 
-The Milocco Lab is based at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+The Milocco Lab is based at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and [SciLifeLab](https://www.scilifelab.se/).
  
 We study how development shapes evolution using mathematical and computational approaches. Our goal is to understand and predict how biological systems generate variation and evolve over time.
 
@@ -25,7 +25,7 @@ To understand evolvability, we focus on *development*—the dynamic process by w
 
 I am Lisandro Milocco, an evolutionary biologist from Neuquén, Argentina, now based in Stockholm, Sweden. 
 
-I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/department-of-zoology/) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
+I am an Assistant Professor at the [Department of Zoology, Stockholm University](https://www.su.se/english/profiles/l/limi7240) and a [DDLS Fellow](https://www.scilifelab.se/data-driven/) at [SciLifeLab](https://www.scilifelab.se/researchers/lisandro-milocco/).
 
 
 ---
