@@ -37,6 +37,7 @@ We welcome motivated students and postdocs interested in evolutionary-developmen
 ---
 
 ## News
+**01/03/2026**: [New paper out!](https://doi.org/10.1073/pnas.2529820123)\
 **01/03/2026**: Excited to announce [open postdoc positions in the lab!](https://su.varbi.com/en/what:job/jobID:906238/)\
 **18/02/2026**: Grateful to have shared our work at the Career & Science Seminar Series at the Max Planck Institute for Evolutionary Biology in Plön, Germany.\
 **19/11/2025**: Enjoyed connecting with colleagues and presenting at the [Biocontrol Workshop 2025](https://www.biocontrolseminars.org/workshop-2025).\
@@ -54,6 +55,11 @@ We welcome motivated students and postdocs interested in evolutionary-developmen
 
 ## Publications
 
+2026
+
+**Bridging developmental and statistical approaches to variation and evolution**  
+**Milocco, L.** & Uller, T.
+**<span style="color:#C35817">Proceedings of the National Academy of Sciences</span>**  [[DOI]](https://doi.org/10.1073/pnas.2529820123)[[PDF]](https://lisandromilocco.github.io/papers/MiloccoUller_2026_PNAS.pdf) 
 
 2025
 
