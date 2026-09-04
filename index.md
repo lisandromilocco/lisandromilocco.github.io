@@ -39,7 +39,6 @@ We welcome motivated students and postdocs interested in evolutionary-developmen
 ## News
 **15/08/2026**: We welcome Matěj Jirout as a PhD student to the lab!\
 **06/08/2026**: [New paper out!](https://doi.org/10.1093/evolinnean/kzag023)\
-**20/07/2026**: A great summer of presentations at [EuroEvoDevo in Glasgow](https://www.evodevoconference26.com/), an inspiring workshop on evolvability at the [KLI](https://www.kli.ac.at/) and [MMEE in Cork](https://www.ucc.ie/en/matsci/events/mmee/)\
 **11/03/2026**: [New paper out!](https://doi.org/10.1073/pnas.2529820123)\
 **01/03/2026**: Excited to announce [open postdoc positions in the lab!](https://su.varbi.com/en/what:job/jobID:906238/)\
 **18/02/2026**: Grateful to have shared our work at the Career & Science Seminar Series at the Max Planck Institute for Evolutionary Biology in Plön, Germany.\
