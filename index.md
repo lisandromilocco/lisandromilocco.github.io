@@ -60,12 +60,9 @@ We welcome motivated students and postdocs interested in evolutionary-developmen
 
 2026
 
-
 **Mapping the possible: developmental coarse-graining for evolutionary prediction**  
 **Milocco, L.**
 **<span style="color:#C35817">Evolutionary Journal of the Linnean Society</span>**  [[DOI]](https://doi.org/10.1093/evolinnean/kzag023)[[PDF]](https://lisandromilocco.github.io/papers/_.pdf) 
-
-
 
 **Bridging developmental and statistical approaches to variation and evolution**  
 **Milocco, L.** & Uller, T.
