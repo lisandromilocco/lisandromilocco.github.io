@@ -38,6 +38,7 @@ sidebar:
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
 github: [metadata]
+remote_theme: BDHU/minimalist@f19d6a6ef015ba93c5aee9ce80339e4959b0ffa7
 
 cdn:
   jsdelivr:
